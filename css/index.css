@@ -11,8 +11,8 @@ body{
 .content{
     width: 900px;
     background-color: #ABABAB;
-    margin: auto;
-    padding: 15px;
+    margin: 40px auto;
+    padding: 30px 15px;
 
 }
 
@@ -39,6 +39,10 @@ body{
     box-shadow: 0 30px 40px -30px black;
     filter: progid:DXImageTransform.Microsoft.dropshadow(offX=0, offY=30, color=black);
     -moz-box-shadow: 0 60px 40px -30px black;
+}
+
+.limeColor{
+    color: #1CEBB7;
 }
 
 #taskPanel{
